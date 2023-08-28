@@ -10,4 +10,5 @@ public class ObjectEqualsApplication {
         SpringApplication.run(ObjectEqualsApplication.class, args);
     }
 
+
 }
